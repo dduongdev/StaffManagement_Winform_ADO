@@ -1,0 +1,10 @@
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\bin\Debug\StaffManagement_WF_ADO.exe.config
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\bin\Debug\StaffManagement_WF_ADO.exe
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\bin\Debug\StaffManagement_WF_ADO.pdb
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\obj\Debug\StaffManagement_WF_ADO.csproj.AssemblyReference.cache
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\obj\Debug\StaffManagement_WF_ADO.StaffManagementForm.resources
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\obj\Debug\StaffManagement_WF_ADO.Properties.Resources.resources
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\obj\Debug\StaffManagement_WF_ADO.csproj.GenerateResource.cache
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\obj\Debug\StaffManagement_WF_ADO.csproj.CoreCompileInputs.cache
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\obj\Debug\StaffManagement_WF_ADO.exe
+D:\CSharpWorkspace\MainSources\StaffManagement_WF_ADO\StaffManagement_WF_ADO\obj\Debug\StaffManagement_WF_ADO.pdb
